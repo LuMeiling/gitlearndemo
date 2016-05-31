@@ -1,4 +1,5 @@
-苹果好甜，好吃。
+﻿苹果好甜，好吃。
 苹果是黄色的。
 for new commit comment
 user2第一次修改a文件~
+user2第二次修改a文件~
